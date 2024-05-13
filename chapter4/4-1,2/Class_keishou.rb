@@ -44,4 +44,3 @@ p Foo.instance_methods(false) #falseを指定。スーパークラスをたど�
 p FooExt.instance_methods(false) #たどるとto_s,eql?とかいっぱい出てくる
 p foo1.instance_variables
 p fooExt.instance_variables
-
