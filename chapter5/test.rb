@@ -2,7 +2,7 @@
 # /home/codespace/.irb-history
 # オブジェクトのID
 # object_id
-# p.221から
+# p.247から
 # バックスラッシュは\
 a = [1,2,3]
 p a.class
@@ -27,3 +27,4 @@ p Array.new([1,2,3])
  => [4, 5, 6] 
 3.2.3 :035 > a.object_id
  => 598760  #replaceメソッドはオブジェクトIDが変化しない
+
